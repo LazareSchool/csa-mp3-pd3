@@ -1,9 +1,9 @@
-# CSA MP3 PD3 Satellite Project 🛰️
+# SAT FRQ Practice Portal 📚
 
-Welcome to the CSA MP3 PD3 Satellite repository! This is where we reach for the stars with our satellite-themed MP3 player.
+Welcome to the SAT FRQ Practice Portal! This repository is dedicated to helping students excel in the Free Response Questions (FRQ) section of the SAT exam.
 
 [![GitHub issues](https://img.shields.io/github/issues/LazareSchool/csa-mp3-pd3.svg)](https://github.com/LazareSchool/csa-mp3-pd3/issues)
-[![GitHub forks](https://img.shields.io/github/forks/LazareSchool/csa-mp3-pd3.svg)](https://github.com/LazareSchool/csa-mp3-pd5/network)
+[![GitHub forks](https://img.shields.io/github/forks/LazareSchool/csa-mp3-pd3.svg)](https://github.com/LazareSchool/csa-mp3-pd3/network)
 [![GitHub stars](https://img.shields.io/github/stars/LazareSchool/csa-mp3-pd3.svg)](https://github.com/LazareSchool/csa-mp3-pd3/stargazers)
 [![GitHub license](https://img.shields.io/github/license/LazareSchool/csa-mp3-pd3.svg)](https://github.com/LazareSchool/csa-mp3-pd3/blob/master/LICENSE)
 ![GitHub contributors](https://img.shields.io/github/contributors/LazareSchool/csa-mp3-pd3.svg)
@@ -12,39 +12,33 @@ Welcome to the CSA MP3 PD3 Satellite repository! This is where we reach for the 
 
 ## 🚀 About The Project
 
-This project harnesses the creativity and technical skills of students to develop a satellite-themed MP3 player. Designed to simulate the control panel of a satellite, it plays music while providing a stellar user interface that mimics navigating through space.
-
-### Key Features
-
-- **Orbital Interface**: Experience music through an interface that looks like you're controlling a satellite.
-- **Space Sounds**: Integrates sounds from space missions for an immersive experience.
-- **Celestial Design**: A slick, futuristic design that matches the theme of space exploration.
+This portal provides resources, practice questions, and solutions to help students tackle the essay and short-answer portions of the SAT exam. Our focus is to enhance understanding and improve performance in tackling complex questions under exam conditions.
 
 ## 🛠️ Built With
 
-- [React.js](https://reactjs.org/) - For crafting the user interface.
-- [Electron](https://www.electronjs.org/) - Giving the desktop app a native feel.
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - For structuring content
+- [JavaScript](https://javascript.info/) - For interactive elements
 
-## 🖼️ Screenshots
+## 🖼️ Example Questions
 
-Here are some snapshots of our interstellar MP3 player in action:
+Here are some examples of the types of questions we cover:
 
-![Screenshot 1](url_to_screenshot)
-![Screenshot 2](url_to_screenshot)
+- Analyze a passage and discuss the rhetorical devices used by the author.
+- Solve a real-world problem using mathematical equations and reasoning.
 
 ## 🤝 Contributing
 
-We're open to contributions! If you've got ideas on how to make this satellite MP3 player even cooler, or if you want to help refine the code, we'd love to collaborate.
+We believe in the power of community to create better resources. Contributions are welcome and greatly appreciated!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/CosmicUpdate`)
-3. Commit your Changes (`git commit -m 'Add some CosmicUpdate'`)
-4. Push to the Branch (`git push origin feature/CosmicUpdate`)
+2. Create your Feature Branch (`git checkout -b feature/AmazingUpdate`)
+3. Commit your Changes (`git commit -m 'Add some AmazingUpdate'`)
+4. Push to the Branch (`git push origin feature/AmazingUpdate`)
 5. Open a Pull Request
 
 ## 📜 License
 
-This project is freely distributed under the MIT License. See `LICENSE` for more details.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
